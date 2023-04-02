@@ -27,6 +27,8 @@ You're on your own: if you're in Linux already you should be familiar with softw
 ## DELIVERY
 This exercise does not have a delivery. Your only goal is to learn how to use, search and install software repositories like `winget` or `homebrew`. You need to know everything about searching, installing, uninstalling, upgrading and listing software installed on your computer using these tools.
 
+Please try searching, installing and uninstalling this software: `Mozilla Firefox` with `winget` or `homebrew`. If using `winget`, please install it using `msstore` as source.
+
 HINTS:
 - Remember that you'll encounter many people that have done the same already. 
 - Google examples by using the following google dorks: 
