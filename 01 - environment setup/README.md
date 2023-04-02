@@ -24,6 +24,9 @@ Every hacker needs a decently configured environment for work. You need to get u
 ## Linux
 You're on your own: if you're in Linux already you should be familiar with software repositories. 
 
+## Environment going forward
+This course will assume you are using Windows as base OS, however, you shouldn't find problems to use macOS or Linux as base OS as all software used will be cross-OS compatible. If you find troubles, suggest you install VirtualBox and use a virtualized Windows 11 image. You can download Windows 11 ISO [here](https://www.microsoft.com/software-download/windows11), section "Download Windows 11 Disk Image (ISO) for x64 devices". 
+
 ## DELIVERY
 This exercise does not have a delivery. Your only goal is to learn how to use, search and install software repositories like `winget` or `homebrew`. You need to know everything about searching, installing, uninstalling, upgrading and listing software installed on your computer using these tools.
 
