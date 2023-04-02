@@ -3,7 +3,7 @@
 Every hacker needs a decently configured environment for work. You need to get used to change machine often, and bring with you your tools. In the past you used to have 'everything on a USB stick'. Those times are gone. Nowadays, you use your 'github gists' (yes, google it now.) and you configure your environment 'as code' with tool like `vagrant`, `docker`, `winget`, `chocolatey`, `homebrew` (for macOS) or similar. 
 
 ## Windows
-- Suggestion is to use the already installed `winget` command-line utility to install any software. 
+- Suggestion is to use the already installed `winget` command-line utility to install any software. You access this by executing first `cmd.exe` from Start Menu.
 - Install `Windows Terminal` with `winget` and using, when possible, always use `msstore` as source because `Microsoft Store` will always auto-update all software to the latest version. 
     - Example:
 
@@ -13,7 +13,7 @@ Every hacker needs a decently configured environment for work. You need to get u
 
 ## macOS
 - Leverage the already installed `Terminal` and if you want, configure it to look like a hacker (black screen with green letters).
-- Suggestion is to install `homebrew` command-line utility to install any software. Install it. 
+- Suggestion is to install `homebrew` command-line utility to install any software. Install it from `Terminal` (visit homebrew website to know how). 
     - Example:
 
     ```
