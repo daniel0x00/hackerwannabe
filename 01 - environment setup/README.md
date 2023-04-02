@@ -1,6 +1,6 @@
 # Exercise 01: environment setup
 
-Every hacker needs a decently configured environment for work. You need to get used to change machine often, and bring with you your tools. In the past you used to have 'everything on a USB stick'. Those times are gone. Nowadays, you use your 'github gists' (yes, google it now.) and you configure your environment 'as code' with tool like `vagrant`, `docker`, `winget`, `chocolatey`, `homebrew` (for macOS) or similar. 
+Every hacker needs a decently configured environment for work. You need to get used to change machine often, and bring with you your tools. In the past you used to have 'everything on a USB stick'. Those times are gone. Nowadays, you use Software Repositories and you store command-lines to install software on your 'github gist' (yes, google it now.). You configure your environment 'as code' with tool like `vagrant`, `docker`, `winget`, `chocolatey`, `homebrew` (for macOS) or similar. 
 
 ## Windows
 - Suggestion is to use the already installed `winget` command-line utility to install any software. You access this by executing first `cmd.exe` from Start Menu.
