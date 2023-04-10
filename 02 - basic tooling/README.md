@@ -45,3 +45,9 @@ You can verify if you've installed each software by running the following comman
 ```
 
 ![Install-Module PSreadline -MinimumVersion 2.2.6 -Force -Scope CurrentUser](./img/2023-04-02-20-51-22.png)
+
+## Possible errors
+
+If you find you don't have installed `winget`, open Microsoft Store for the first time and it should get installed automatically. Then, just try again.
+
+![](./img/2023-04-10-10-26-27.png)
